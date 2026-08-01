@@ -75,7 +75,7 @@ src/
 ## Clone the repository
 
 ```bash
-git clone <https://github.com/shivamsinghraje/Smart-Expense-Tracker-API>
+git clone https://github.com/shivamsinghraje/Smart-Expense-Tracker-API
 ```
 
 ---
@@ -83,7 +83,7 @@ git clone <https://github.com/shivamsinghraje/Smart-Expense-Tracker-API>
 ## Navigate to the project
 
 ```bash
-cd expense-tracker
+cd Smart-Expense-Tracker-API
 ```
 
 ---
