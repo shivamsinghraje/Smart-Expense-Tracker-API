@@ -1,6 +1,6 @@
 ## AI Usage Summary
 
-AI tools, like ChatGPT, were used as helpers during the project's development. The suggestions that were created were reviewed, changed if needed, and tested before being included in the final solution.
+AI tools, like ChatGPT, were used as helpers during the project's development. The suggestions that were created were reviewed, changed if needed and tested before being included in the final solution.
 
 ---
 
